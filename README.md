@@ -78,28 +78,6 @@
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="./profile/stats.svg"
-    alt="Uday's GitHub Stats"
-  />
-  <img
-    src="./profile/top-langs.svg"
-    alt="Uday's Top Languages"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=uday246r&theme=tokyonight&hide_border=true"
-    alt="Uday's GitHub Streak"
-  />
-</p>
-
----
-
 # 📈 Contribution Graph:
 
 <p align="center">
