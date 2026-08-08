@@ -78,16 +78,12 @@
 
 ---
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 
 <p align="center">
   <img
     src="./profile/stats.svg"
     alt="Uday's GitHub Stats"
-  />
-  <img
-    src="./profile/top-langs.svg"
-    alt="Uday's Top Languages"
   />
 </p>
 
