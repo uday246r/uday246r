@@ -79,14 +79,15 @@
 ---
 
 # 📊 GitHub Stats:
+# 📊 GitHub Stats
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=uday246r&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+    src="./profile/stats.svg"
     alt="Uday's GitHub Stats"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=uday246r&layout=compact&theme=tokyonight&hide_border=true"
+    src="./profile/top-langs.svg"
     alt="Uday's Top Languages"
   />
 </p>
