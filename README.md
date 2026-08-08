@@ -85,6 +85,10 @@
     src="./profile/stats.svg"
     alt="Uday's GitHub Stats"
   />
+  <img
+    src="./profile/top-langs.svg"
+    alt="Uday's Top Languages"
+  />
 </p>
 
 <p align="center">
